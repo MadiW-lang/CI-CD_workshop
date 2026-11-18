@@ -1,8 +1,7 @@
 import random
 
 def fix_me(num1, num2):
-    return num1 + num2 + 3
-
+    return num1 + num2 
 # Yes this is overly cutesy. I love cinnamaroll man
 
 if __name__ == "__main__":
